@@ -1,6 +1,6 @@
-# inflearn-streamlit-test
+Hello git
 
-## <span style="color:orange"> Hello Git!</span>
-
-<span style="color:yellow">노란 글씨입니다.</span>
-왜 글씨 색이 안바뀔까 ?....
+git add .
+git commit -m "message"
+git push 
+git push --set-upstream https://github.com/chrischina/inflearn-streamlit-test.git main

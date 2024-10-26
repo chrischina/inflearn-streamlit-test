@@ -1,3 +1,3 @@
 # inflearn-streamlit-test
 
-## <span style="color:orangered">some *blue* text</span>
+## <span style="color:orangered" </span>
